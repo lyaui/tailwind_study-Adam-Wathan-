@@ -1,0 +1,16 @@
+{
+  "name": "tailwind_adam-wathan",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "postcss css/tailwind.css -o public/build/tailwind.css"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "autoprefixer": "^9.8.6",
+    "postcss-cli": "^8.1.0",
+    "tailwindcss": "^1.9.2"
+  }
+}
